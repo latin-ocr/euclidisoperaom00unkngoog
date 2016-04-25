@@ -1,0 +1,34 @@
+mammonam amaa xm. 261
+
+mediam secta est, et maior pars est recta ab initio
+sumpta.
+
+Nam recta linea AB seeundum rationem extremam
+aa mediam in puncto Γ secetur, et maior pars sit A Γ
+et A A = AF. dico, rectam AB seeundum rationem
+extremam ao mediam in A sectam esse, et partem
+maiorem esse rectam ab initio sumptam A B.
+
+construatur enim in AB quadratum AB, et de·
+scribatur figura. quoniam AB in Γ seeundum ratio-
+nem extremam aa mediam secta est, erit AB >< ΒΓ
+== AP² [VI def. 3. vl, 17]. et AB >< BP= ΓΕ,
+ΑΓ8 = ΓΘ. itaque ΓΕ = ΘΓ. uerum ΘΕ = ΓΕ
+[1, 43], A Θ = ΘΓ. quare etiam Δ Θ = ΘΕ. itaque
+
+AK= AB. et ΔΚ = BA >< AA·(nam ΑΔ = AA),
+AB = AB². erit igitur BA >< ΛΑ = AB2. itaque
+AB :BA = BA: ΑΔ [V1‚ 17]. sed AB >BA. itaque
+etiam BA > A Δ [V, 14].
+
+Ergo AB in A secundum rationem extremam ao
+mediam diuisa est, et maior pars est AB3 quod erat
+demonstrandum.
+
+18. ΔΑ] ΔΛ q. ΔΛ] corr. ex ΛΑ m. 1 b. 19. τὸ ἄρα
+- 20. AB] om. q. 20. ΔΒ] Δ corr. ex'A m. 1 b.
+22. BA] salt.) AB V, AB B, BA bq. 23. BA BV.
+25. Seq. a 'a demonstratio et analysie propp. I-V in bq3 u. app.
+
+ 
+
